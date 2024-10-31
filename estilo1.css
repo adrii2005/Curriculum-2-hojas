@@ -1,0 +1,50 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: navy;
+    font-size: 12pt;
+}
+body {
+    background-color: powderblue;
+}
+h2 {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif 15px;
+}
+h3 {
+    color: blue;
+    background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif 20px;
+}
+table, th, td {
+    background-color: lightblue;
+    border: 2px dotted blue;
+}
+a {
+    text-decoration: none;
+}
+.importante {
+    background-color: red;
+    color: yellow;
+}
+.titulo-grande {
+    font-style: italic;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+    font-size: 18pt;
+}
+#retrato {
+    width: 200px;
+    height: 300px;
+    border: 2px solid blue;
+}
